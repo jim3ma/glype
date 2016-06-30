@@ -1,4 +1,4 @@
-FROM php:5.5-fpm
+FROM php:5.5-fpm-alpine
 
 MAINTAINER Jim Ma <majinjing3@gmail.com>
 
